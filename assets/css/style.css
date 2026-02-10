@@ -1,0 +1,28 @@
+body{
+  background:#0f0f1a;
+  color:white;
+  font-family:Arial;
+  text-align:center;
+}
+header{padding:80px}
+.btn{
+  background:#ff004f;
+  color:white;
+  padding:12px 20px;
+  text-decoration:none;
+  border-radius:8px;
+}
+.grid{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+}
+.card{
+  background:#1b1b2f;
+  width:220px;
+  margin:10px;
+  padding:15px;
+  border-radius:10px;
+}
+.card img{width:100px;height:100px}
+.card a{color:#00ffd5}
